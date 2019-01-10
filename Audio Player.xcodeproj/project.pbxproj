@@ -12,6 +12,7 @@
 		BA2488E321E7CB3D006DDC91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2488E121E7CB3D006DDC91 /* Main.storyboard */; };
 		BA2488E521E7CB41006DDC91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2488E421E7CB41006DDC91 /* Assets.xcassets */; };
 		BA2488E821E7CB41006DDC91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2488E621E7CB41006DDC91 /* LaunchScreen.storyboard */; };
+		BA2488F321E7CE86006DDC91 /* CantataBach.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA2488F221E7CE86006DDC91 /* CantataBach.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BA2488E421E7CB41006DDC91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA2488E721E7CB41006DDC91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA2488E921E7CB41006DDC91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA2488F221E7CE86006DDC91 /* CantataBach.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = CantataBach.mp3; path = MP3s/CantataBach.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BA2488DD21E7CB3D006DDC91 /* AppDelegate.swift */,
 				BA2488DF21E7CB3D006DDC91 /* ViewController.swift */,
 				BA2488E121E7CB3D006DDC91 /* Main.storyboard */,
+				BA2488F221E7CE86006DDC91 /* CantataBach.mp3 */,
 				BA2488E421E7CB41006DDC91 /* Assets.xcassets */,
 				BA2488E621E7CB41006DDC91 /* LaunchScreen.storyboard */,
 				BA2488E921E7CB41006DDC91 /* Info.plist */,
@@ -125,6 +128,7 @@
 				BA2488E821E7CB41006DDC91 /* LaunchScreen.storyboard in Resources */,
 				BA2488E521E7CB41006DDC91 /* Assets.xcassets in Resources */,
 				BA2488E321E7CB3D006DDC91 /* Main.storyboard in Resources */,
+				BA2488F321E7CE86006DDC91 /* CantataBach.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
